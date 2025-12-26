@@ -409,3 +409,4 @@ Export-ModuleMember -Function Test-IsInno
 Export-ModuleMember -Function Test-IsBurn
 Export-ModuleMember -Function Test-IsFont
 Export-ModuleMember -Function Resolve-InstallerType
+
